@@ -1,0 +1,6 @@
+name: 1.17.1-AntiRelog
+version: 1.17.1
+author: AnonymousRand
+main: AnonymousRand.AntiRelog.AntiRelogPlugin
+api-version: 1.17
+load: STARTUP
