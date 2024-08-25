@@ -1,6 +1,6 @@
-# AntiRelog
+# Anti-Relog
 
-**Version 1.17.1**
+For Minecraft 1.17.1.
 
 # Installation instructions:
 
