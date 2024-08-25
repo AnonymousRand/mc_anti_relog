@@ -1,4 +1,4 @@
-# Anti-Relog-1.17.1
+# Anti-Relog
 
 Spigot plugin for Minecraft 1.17.1.
 
