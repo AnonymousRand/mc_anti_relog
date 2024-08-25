@@ -1,6 +1,6 @@
-# Anti-Relog
+# Anti-Relog-1.17.1
 
-For Minecraft 1.17.1.
+Spigot plugin for Minecraft 1.17.1.
 
 # Installation guide:
 
